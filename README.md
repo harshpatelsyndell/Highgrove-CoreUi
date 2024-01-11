@@ -193,3 +193,9 @@ copyright 2023 creativeLabs Łukasz Holeczek.
 Code released under [the MIT license](https://github.com/coreui/coreui-free-react-admin-template/blob/master/LICENSE).
 There is only one limitation you can't can’t re-distribute the CoreUI as stock. You can’t do this if you modify the CoreUI. In past we faced some problems with persons who tried to sell CoreUI based templates.
 
+
+
+
+![8-9(1)](https://github.com/harshpatelsyndell/Highgrove-CoreUi/assets/156167722/f1b0b675-5464-4973-9913-ce5e76f52846)
+![image](https://github.com/harshpatelsyndell/Highgrove-CoreUi/assets/156167722/f93fecd9-fdf2-4249-8bd7-5ef4c4b0c269)
+
